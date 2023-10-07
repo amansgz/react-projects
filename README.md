@@ -14,7 +14,6 @@
   <img src= "https://github.com/amansgz/react-huddle-landing-page/blob/b28b5c6e1e596ab07938d3230717a26d87a75200/public/assets/preview.png" title= "Huddle landing page with alternating feature blocks" alt= "Huddle landing page with alternating feature blocks" width= "230">          
 
 
-
 - **Clipboard landing page**
 
   [live site](https://react-clipboard-landing-page.netlify.app/) / [code](https://github.com/amansgz/react-clipboard-landing-page)
@@ -34,4 +33,9 @@
 
    [live site](https://easybank-landing-page-with-react.netlify.app/) / [code](https://github.com/amansgz/react-easybank-landing-page)
     
-   <img src= "https://github.com/amansgz/react-easybank-landing-page/blob/2211d6ec12e4179b64999c90aab134b3112fc5c1/public/assets/preview.png" title= "easybank landing page" alt= "easybank landing page" width= "230">
+   <img src= "https://github.com/amansgz/react-easybank-landing-page/blob/2211d6ec12e4179b64999c90aab134b3112fc5c1/public/assets/preview.png" title= "easybank landing page" alt= "easybank landing page" width= "230">    
+
+- **Basic Dept**    
+  [code](https://github.com/amansgz/react-basic-dept-practice)
+
+  
