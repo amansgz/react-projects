@@ -35,7 +35,6 @@
     
    <img src= "https://github.com/amansgz/react-easybank-landing-page/blob/2211d6ec12e4179b64999c90aab134b3112fc5c1/public/assets/preview.png" title= "easybank landing page" alt= "easybank landing page" width= "230">    
 
-- **Basic Dept**    
-  [code](https://github.com/amansgz/react-basic-dept-practice)
+
 
   
